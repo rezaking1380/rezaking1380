@@ -1,19 +1,37 @@
-### Hi there 👋
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome,+There!+👋;I'm+Reza+Nangir;I'm+happy+to+meet+you,+my+dear!&center=true&font=Vazirmatn&weight=800&duration=3000&pause=1000&height=100&width=500&color=FDC435&size=30">
+</h1>
 
-<!--
-**rezaking1380/rezaking1380** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)]
+---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
 
-Here are some ideas to get you started:
+### 👨🏻‍🦱 About Me 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Front-END developer from Iran
+
+- 🔭 As a front-end developer, I create web applications.
+- ⚡ Now ... I'm ready to work with big teams.
+
+---
+
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> My Stats :
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Reza&show_icons=true&bg_color=000&title_color=FDC435&border_color=FDC435&icon_color=FDC435&text_color=fff)
+
+---
+
+### 👨‍💻 Programming :
+
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=CSS3&logoColor=white&style=for-the-badge)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=HTML5&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=black&style=for-the-badge)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind&nbsp;CSS-06B6D4?logo=TailwindCSS&logoColor=white&style=for-the-badge)
+![React](https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=black&style=for-the-badge)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?logo=Axios&logoColor=white&style=for-the-badge)
+![Npm](https://img.shields.io/badge/Npm-CB3837?logo=Npm&logoColor=white&style=for-the-badge)
+![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?logo=Yarn&logoColor=white&style=for-the-badge)
+
+### 📌 My Social
+    
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?logo=Linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/reza-nangir)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?logo=Gmail&logoColor=white&style=for-the-badge)](mailto:reza.ngr8@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-229ED9?logo=Telegram&logoColor=white&style=for-the-badge)](https://t.me/R_n_80)
