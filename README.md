@@ -14,11 +14,6 @@ I'm a Front-END developer from Iran
 
 ---
 
-### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> My Stats :
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RezaNangir&show_icons=true&bg_color=000&title_color=FDC435&border_color=FDC435&icon_color=FDC435&text_color=fff)
-
----
-
 ### 👨‍💻 Programming :
 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=CSS3&logoColor=white&style=for-the-badge)
