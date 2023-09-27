@@ -41,6 +41,6 @@ create responsive, efficient, and user-friendly web applications that meet and e
 
 ### 📌 My Social
     
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?logo=Linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/reza-nangir)
+[![Linkedin]([https://img.shields.io/badge/LinkedIn-0A66C2?logo=Linkedin&logoColor=white&style=for-the-badge](https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg))](https://www.linkedin.com/in/reza-nangir)
 [![Gmail](https://icons8.com/icon/qyRpAggnV0zH/gmail)](mailto:reza.ngr8@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-229ED9?logo=Telegram&logoColor=white&style=for-the-badge)](https://t.me/R_n_80)
