@@ -7,7 +7,15 @@
 
 ### 👨🏻‍🦱 About Me 
 
-I'm a Front-END developer from Iran
+One of their core competencies is React JS, which is an incredibly useful library for creating diverse user interfaces. They
+are proficient in writing code using React framework and can successfully develop applications from scratch and
+troubleshoot any issues that arise.Next JS is another technology that this developer has been using frequently, which
+makes it easy to create server-side rendered applications with a fast loading time. They have expertise in integrating it
+with other third-party applications to improve the overall functionality of the application.
+
+Overall, this front end developer is a valuable asset to any team looking to build robust web applications using the latest
+front end technologies such as React JS, Next JS, TypeScript, and Git. They have the necessary skills and knowledge to
+create responsive, efficient, and user-friendly web applications that meet and exceed client expectations.
 
 - 🔭 As a front-end developer, I create web applications.
 - ⚡ Now ... I'm ready to work with big teams.
