@@ -80,44 +80,32 @@
     </td>
     <td align="center" width="96">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="48" alt="nextjs logo"  />
-  <img width="24" />
       <br>Next js
     </td>
   </tr>
   <tr>
   <td align="center" width="96">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="48" alt="figma logo"  />
-  <img width="24" />
       <br>figma
     </td>
     <td align="center" width="96">
          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="48" alt="firebase logo"  />
-  <img width="24" />
       <br>firebase
     </td>
     <td align="center" width="96">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" height="48" alt="babel logo"  />
-  <img width="24" />
-      <br>babel
-    </td>
-    <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" height="48" alt="babel logo"  />
-  <img width="24" />
       <br>babel
     </td>
     <td align="center" width="96">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="48" alt="redux logo"  />
-        <img width="24" />
       <br>Redux
     </td>
     <td align="center" width="96">
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="48" alt="yarn logo"  />
-  <img width="24" />
       <br>yarn
     </td>
     <td align="center" width="96">
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
-  <img width="24" />
       <br>npm
     </td>
   </tr>
